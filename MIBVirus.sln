@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27906.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIBVirus", "MIBVirus.csproj", "{F61F601D-35BB-460A-A3EF-3EACDB9A5454}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetScreenEffect", "SetScreenEffect\SetScreenEffect.vcxproj", "{47DAE6FC-8D84-4AE0-9C1E-84A927842617}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetScreenEffect64", "SetScreenEffect\SetScreenEffect64.vcxproj", "{BC46BE76-939F-40B7-8959-45D70948F8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F61F601D-35BB-460A-A3EF-3EACDB9A5454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61F601D-35BB-460A-A3EF-3EACDB9A5454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61F601D-35BB-460A-A3EF-3EACDB9A5454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61F601D-35BB-460A-A3EF-3EACDB9A5454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DAE6FC-8D84-4AE0-9C1E-84A927842617}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{47DAE6FC-8D84-4AE0-9C1E-84A927842617}.Debug|Any CPU.Build.0 = Debug|Win32
+		{47DAE6FC-8D84-4AE0-9C1E-84A927842617}.Release|Any CPU.ActiveCfg = Release|Win32
+		{47DAE6FC-8D84-4AE0-9C1E-84A927842617}.Release|Any CPU.Build.0 = Release|Win32
+		{BC46BE76-939F-40B7-8959-45D70948F8A5}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{BC46BE76-939F-40B7-8959-45D70948F8A5}.Debug|Any CPU.Build.0 = Debug|x64
+		{BC46BE76-939F-40B7-8959-45D70948F8A5}.Release|Any CPU.ActiveCfg = Release|x64
+		{BC46BE76-939F-40B7-8959-45D70948F8A5}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA7991B-CD91-4CF3-8D9F-D4C7BFCE6526}
+	EndGlobalSection
+EndGlobal

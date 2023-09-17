@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS  
+   SetScreenRot     @1  
+   SetScreenFade    @2  
+   SetScreenEffect  @3  
